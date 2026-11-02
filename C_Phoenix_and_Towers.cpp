@@ -1,3 +1,6 @@
+no two pointer
+just serially distribution among colors
+
 // wafi the laura — farming aura
 #include <bits/stdc++.h>
 using namespace std;
